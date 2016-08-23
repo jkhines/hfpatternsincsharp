@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Net", "Observer.Net.csproj", "{71371A61-A22A-4FE0-941C-47D0C3448E3E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs21
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Observer.Net.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71371A61-A22A-4FE0-941C-47D0C3448E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71371A61-A22A-4FE0-941C-47D0C3448E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71371A61-A22A-4FE0-941C-47D0C3448E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71371A61-A22A-4FE0-941C-47D0C3448E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
